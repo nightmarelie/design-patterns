@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "run:expl": "ts-node-dev --respawn --debug --inspect=12000 --no-notify --files"
+  },
   "devDependencies": {
-    "ts-node-dev": "^1.1.8"
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.5"
   }
 }
