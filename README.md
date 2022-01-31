@@ -14,5 +14,5 @@ yarn run:expl -- ./src/CDP/Singleton
 ## Structural Design Patterns
 
 ```
-
+yarn run:expl -- ./src/SDP/Adapter
 ```
