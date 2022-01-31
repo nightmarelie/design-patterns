@@ -18,4 +18,5 @@ yarn run:expl -- ./src/SDP/Adapter
 yarn run:expl -- ./src/SDP/Bridge
 yarn run:expl -- ./src/SDP/Composit
 yarn run:expl -- ./src/SDP/Decorator
+yarn run:expl -- ./src/SDP/Facade
 ```
