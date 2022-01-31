@@ -66,4 +66,5 @@ const jain = new Designer("Jain", 2000, ["Leader"]);
 const organization = new Organization();
 organization.addEmployees(john);
 organization.addEmployees(jain);
+
 console.log(organization.getNetSalaries());
