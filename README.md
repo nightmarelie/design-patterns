@@ -22,3 +22,9 @@ yarn run:expl -- ./src/SDP/Facade
 yarn run:expl -- ./src/SDP/Flyweight
 yarn run:expl -- ./src/SDP/Proxy
 ```
+
+## Behavioral Design Patterns
+
+```
+yarn run:expl -- ./src/BDP/ChainOfResponsibility
+```
