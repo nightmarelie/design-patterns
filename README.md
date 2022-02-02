@@ -28,4 +28,5 @@ yarn run:expl -- ./src/SDP/Proxy
 ```
 yarn run:expl -- ./src/BDP/ChainOfResponsibility
 yarn run:expl -- ./src/BDP/Command
+yarn run:expl -- ./src/BDP/Iterator
 ```
