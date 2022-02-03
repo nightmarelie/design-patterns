@@ -32,5 +32,7 @@ yarn run:expl -- ./src/BDP/Iterator
 yarn run:expl -- ./src/BDP/Mediator
 yarn run:expl -- ./src/BDP/Memento
 yarn run:expl -- ./src/BDP/Observer
-
+yarn run:expl -- ./src/BDP/Visitor
+yarn run:expl -- ./src/BDP/Strategy
+yarn run:expl -- ./src/BDP/State
 ```
