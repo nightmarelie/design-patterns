@@ -30,4 +30,5 @@ yarn run:expl -- ./src/BDP/ChainOfResponsibility
 yarn run:expl -- ./src/BDP/Command
 yarn run:expl -- ./src/BDP/Iterator
 yarn run:expl -- ./src/BDP/Mediator
+yarn run:expl -- ./src/BDP/Memento
 ```
