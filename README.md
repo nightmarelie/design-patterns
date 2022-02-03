@@ -31,4 +31,6 @@ yarn run:expl -- ./src/BDP/Command
 yarn run:expl -- ./src/BDP/Iterator
 yarn run:expl -- ./src/BDP/Mediator
 yarn run:expl -- ./src/BDP/Memento
+yarn run:expl -- ./src/BDP/Observer
+
 ```
