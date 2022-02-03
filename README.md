@@ -35,4 +35,5 @@ yarn run:expl -- ./src/BDP/Observer
 yarn run:expl -- ./src/BDP/Visitor
 yarn run:expl -- ./src/BDP/Strategy
 yarn run:expl -- ./src/BDP/State
+yarn run:expl -- ./src/BDP/TemplateMethod
 ```
